@@ -1,0 +1,15 @@
+{
+  "name": "node_package",
+  "version": "1.0.0",
+  "description": "my node package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://gitub.com/chanhepark/.config)"
+  },
+  "author": "chanhepark",
+  "license": "ISC"
+}
